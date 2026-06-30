@@ -1,1 +1,13 @@
-/* Add CSS Styling */
+.pop {
+    font-size: 28px;
+    font-family: helvetica, "time new roman", sans-serif;
+}
+
+#true {
+    background-color: black;
+    color: rgb(255, 255, 255);
+}
+
+#false {
+    background-color: hsl(60, 100%, 50%)
+}
